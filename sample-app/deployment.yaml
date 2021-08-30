@@ -13,7 +13,7 @@ metadata:
           "fieldPath": "spec.template.spec.containers[0].image"
         }
       ]
-  namespace: test
+  namespace: argocd
 spec:
   selector:
     matchLabels:
